@@ -12,20 +12,20 @@ Over the course of six years, ranging from 2004 until 2009, the histogram below 
 <br>
 <br>
 <img src="images/Figure1.png" alt="Variability histogram of data of casualties in the Afghan war per group involved per month" />
-<td style="text-align: center"><span style="font-style: italic;font-size: 10px;">Figure 1: Variability histogram of data of casualties in the Afghan war per group involved per month. </span></td>
+<td style="text-align: center"><span style="font-style: italic;font-size: 12px;">Figure 1: Variability histogram of data of casualties in the Afghan war per group involved per month. </span></td>
 <br>
 The variability of the data can also be presented in a different way, as shown in the smoothed histogram below. In this graph, the density of the value gives an indication of the frequency of certain data values per group smoothed out of the range of the specific value. Important to note is that the density values are estimates rather actual exact values. Similar observations compared to the histogram above can be drawn in terms of the variability of the casualties per group, although specific outliers are less clearly identifiable. In analyzing trends though, the smoothed histogram gives a clearer display of the general overview of the variability per group. 
 <br>
  <br>
 <img src="images/Figure2.png" alt="Smoothed variability histogram of data of casualties in the Afghan war per group involved expressed in density of the values per month" />
-<td style="text-align: center"><span style="font-style: italic;font-size: 10px;">Figure 2: Smoothed variability histogram of data of casualties in the Afghan war per group involved expressed in density of the values per month. </span></td>
+<td style="text-align: center"><span style="font-style: italic;font-size: 12px;">Figure 2: Smoothed variability histogram of data of casualties in the Afghan war per group involved expressed in density of the values per month. </span></td>
 <br>
 <br>
 If one is more interested in the exact number of casualties per month over the six-year period, the horizontal bar chart can give clarity, while also providing comparison between months and specific groups accordingly. As the y-axis represents time, the graph could be used for further interpretation of certain events in the war. For example, the periods around September 2006 and 2007 show significant casualties which could form a substantiation for events that have occurred in the war.  
 <br>
 <br>
 <img src="images/Figure3.png" alt="Horizontal bar chart of casualties of the Afghan war per group involved over time shown per month." />
-<td style="text-align: center"><span style="font-style: italic;font-size: 10px;">Figure 3: Horizontal bar chart of casualties of the Afghan war per group involved over time shown per month. </span></td>
+<td style="text-align: center"><span style="font-style: italic;font-size: 12px;">Figure 3: Horizontal bar chart of casualties of the Afghan war per group involved over time shown per month. </span></td>
 <br>
 Total casualties 
 <br>
@@ -33,12 +33,12 @@ Considering the total number of casualties recorded in the war, the two followin
 <br>
 <br>
 <img src="images/Figure4.png" alt="Horizontal bar chart of total casualties of the Afghan war over time shown per month" />
-<td style="text-align: center"><span style="font-style: italic;font-size: 10px;">Figure 4: Horizontal bar chart of total casualties of the Afghan war over time shown per month. </span></td>
+<td style="text-align: center"><span style="font-style: italic;font-size: 12px;">Figure 4: Horizontal bar chart of total casualties of the Afghan war over time shown per month. </span></td>
 <br>
 Looking more into the trend of the total number of casualties over the six-year period, the line graph could give more clarity. One can see that the total number of casualties generally increases over time with mostly peaks during summer in the years between 2006 and 2009. Considering this trend, several interpretations could be formulated, when the data is supportive to the general context and events of the war. 
 <br>
 <br>
 <img src="images/Figure5.png" alt="Line graph of total casualties of the Afghan war over time shown per month." />
-<td style="text-align: center"><span style="font-style: italic;font-size: 10px;">Figure 5: Line graph of total casualties of the Afghan war over time shown per month. </span></td>
+<td style="text-align: center"><span style="font-style: italic;font-size: 12px;">Figure 5: Line graph of total casualties of the Afghan war over time shown per month. </span></td>
 
  
