@@ -3,7 +3,7 @@ Everyone in the group has the access to upload and modify files anywhere and any
 
 The following section provides some explanation to the graphs of Assignment 2
 
-<table><span style="text-align: center; font-size: 20px;font-weight: bold;">Assignment 2 Explanation of Graphs and Data</span> 
+<span style="text-align: center; font-size: 20px;font-weight: bold;">Assignment 2 Explanation of Graphs and Data</span> <br>
 
 The following section will elaborate on several graphs and associated data from war logs of the war in Afghanistan. 
 
