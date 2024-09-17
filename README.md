@@ -1,13 +1,13 @@
-This repository is used to upload our group assignments.
-Everyone in the group has the access to upload and modify files anywhere and anytime, so it's recommended to use 'Issues' to mark what you have done to the file.
+<span style="font-style: italic;">This repository is used to upload our group assignments.
+Everyone in the group has the access to upload and modify files anywhere and anytime, so it's recommended to use 'Issues' to mark what you have done to the file.</span>
 
 The following section provides some explanation to the graphs of Assignment 2
 
-Assignment 2 Explanation of Graphs and Data 
+<table><span style="text-align: center; font-size: 20px;font-weight: bold;">Assignment 2 Explanation of Graphs and Data</span> 
 
 The following section will elaborate on several graphs and associated data from war logs of the war in Afghanistan. 
 
-Casualties per group 
+<td style="text-align: left;"><span style="font-weight: 450; font-size: 15px;">Casualties per group</span></td> 
 
 Over the course of six years, ranging from 2004 until 2009, the histogram below shows a display of the data of casualties in the Afghan war per distinctive group that is involved in the war. The x-axis does, however, not represent the given period between 2004 and 2009. The axis shows the variability for each group per month over the given period of time. For the Taliban group, one can see that the variability is significantly greater with dispersed outliers above 900 casualties (September 2007). For the Nato group one can see that the variability is far lower with a maximum of 90 in July 2009. Meanwhile, the frequency of low number of casualties ranging between 0 and 40 casualties is significantly higher, resulting in the high red peaks on the left side of the histogram. 
 
