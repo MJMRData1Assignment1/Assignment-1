@@ -2,7 +2,14 @@
 Everyone in the group has the access to upload and modify files anywhere and anytime, so it's recommended to use 'Issues' to mark what you have done to the file.</span>
 <br>
 <br>
+<td style="text-align: center"><span style="font-size: 20px;font-weight: bold;">Assignment 1</span>
+<br>
+Document Download <a href="https://github.com/MJMRData1Assignment1/Assignment-1/blob/48037d585d7c8d0014d33dcbf217cb5925d9f2eb/hw-00-Final.ipynb" target="_blank" style="color: blue; text-decoration: none;">hw-00</a>.
+<br>
+<br>
 <td style="text-align: center"><span style="font-size: 20px;font-weight: bold;">Assignment 2 Explanation of Graphs and Data</span>
+<br>
+Document Download <a href="https://github.com/MJMRData1Assignment1/Assignment-1/blob/48037d585d7c8d0014d33dcbf217cb5925d9f2eb/Assignment2_MJMR.ipynb" target="_blank" style="color: blue; text-decoration: none;">Assignment_2</a>.
 <br>
 The following section will elaborate on several graphs and associated data from war logs of the war in Afghanistan. 
 <br>
@@ -47,4 +54,7 @@ Looking more into the trend of the total number of casualties over the six-year 
 <td style="text-align: center"><span style="font-style: italic;font-size: 12px;">Figure 5: Line graph of total casualties of the Afghan war over time shown per month. </span></td>
 <br>
 <br>
- 
+<td style="text-align: center"><span style="font-size: 20px;font-weight: bold;">Assignment 3</span>
+<br>
+Document Download <a href="https://github.com/MJMRData1Assignment1/Assignment-1/blob/48037d585d7c8d0014d33dcbf217cb5925d9f2eb/Assignment2_MJMR.ipynb" target="_blank" style="color: blue; text-decoration: none;">Assignment_3</a>.
+<br>
