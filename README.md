@@ -4,7 +4,7 @@ Everyone in the group has the access to upload and modify files anywhere and any
 <br>
 <td style="text-align: center"><span style="font-size: 20px;font-weight: bold;">Assignment 3</span>
 <br>
-View Assignment 3: <a href="https://github.com/MJMRData1Assignment1/Assignment-1/blob/48037d585d7c8d0014d33dcbf217cb5925d9f2eb/Assignment2_MJMR.ipynb" target="_blank" style="color: blue; text-decoration: none;">Click here</a>.
+View Assignment 3: <a href="https://github.com/MJMRData1Assignment1/Assignment-1/blob/4b29e3c2acbbc4b126c0199ce37a1ed97b2d8176/Assignment3_Final.ipynb" target="_blank" style="color: blue; text-decoration: none;">Click here</a>.
 <br>
 <br>
 <td style="text-align: center"><span style="font-size: 20px;font-weight: bold;">Assignment 2 Explanation of Graphs and Data</span>
@@ -56,6 +56,6 @@ Looking more into the trend of the total number of casualties over the six-year 
 <br>
 <td style="text-align: center"><span style="font-size: 20px;font-weight: bold;">Assignment 1</span>
 <br>
-View Assignment 1: <a href="https://github.com/MJMRData1Assignment1/Assignment-1/blob/48037d585d7c8d0014d33dcbf217cb5925d9f2eb/hw-00-Final.ipynb" target="_blank" style="color: blue; text-decoration: none;">Click Here</a>.
+View Assignment 1: <a href="https://github.com/MJMRData1Assignment1/Assignment-1/blob/48037d585d7c8d0014d33dcbf217cb5925d9f2eb/hw-00-Final.ipynb" target="_blank" style="color: blue; text-decoration: none;">Click here</a>.
 <br>
 
