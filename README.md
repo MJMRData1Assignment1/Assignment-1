@@ -6,6 +6,8 @@ Everyone in the group has the access to upload and modify files anywhere and any
 <br>
 View Assignment 4: <a href="https://github.com/MJMRData1Assignment1/Assignment-1/blob/6df065ed09c52a7a024100c80060dec9f0aaa341/hw-04%5BFINAL%5D.ipynb" target="_blank" style="color: blue; text-decoration: none;">Click here</a>.
 <br>
+<img src="images/moran_plot.png" alt="Moran Plot" />
+<br>
 <br>
 <td style="text-align: center"><span style="font-size: 20px;font-weight: bold;">Assignment 3</span>
 <br>
