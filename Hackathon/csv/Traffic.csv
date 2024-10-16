@@ -19,7 +19,7 @@ Wijken,Frederik Hendrikbuurt,EJ,2021,Traffic,9,6,20,1748,1662,86,6.7,5.4,6.8,7.9
 Wijken,Van Galenbuurt,EK,2021,Traffic,21,13,30,1238,1133,105,5.7,5.2,5.6,7.8,7.6,5.9,6,-
 Wijken,Geuzenbuurt,EL,2021,Traffic,19,12,23,1466,1392,74,6.2,5.4,6.2,7.8,7.6,6.5,6.5,-
 Wijken,Hoofdweg e.o.,EM,2021,Traffic,20,16,14,2094,2019,75,6.4,5.4,6.4,8,8.1,6.8,6.8,-
-Wijken,Chass¨¦buurt,EN,2021,Traffic,28,19,30,1009,931,78,6.1,5,6.3,7.5,-,6.4,6.4,-
+Wijken,ChassÂ¨Â¦buurt,EN,2021,Traffic,28,19,30,1009,931,78,6.1,5,6.3,7.5,-,6.4,6.4,-
 Wijken,Bellamybuurt,EP,2021,Traffic,12,9,20,765,692,73,5.9,5.1,6.3,8,7.7,6,5.8,-
 Wijken,Da Costabuurt,EQ,2021,Traffic,15,15,18,971,883,88,6.2,4.8,6.3,8.2,8.2,5.9,5.8,-
 Wijken,Westindische Buurt,ER,2021,Traffic,25,17,20,1763,1713,50,7.1,5.8,6.7,8,-,6.6,6.5,-
@@ -68,7 +68,7 @@ Wijken,Frankendael,MM,2021,Traffic,6,6,7,4119,3972,147,7.2,5.9,7.4,8,7.8,7.4,7,-
 Wijken,Middenmeer,MN,2021,Traffic,13,9,9,4691,4552,139,7.1,5.9,7.3,7.7,7.9,7.4,7.1,-
 Wijken,Betondorp,MP,2021,Traffic,16,9,15,1799,1741,58,6.9,5,7,6.7,6.7,7.2,6.5,-
 Wijken,Omval/Overamstel,MQ,2021,Traffic,11,6,8,1903,1827,48,6.7,6.2,7.7,8.4,8.2,7.4,6.8,28
-Wijken,Oostzanerwerf,NA,2021,Traffic,13,6,28,3419,-,65,6.3,5.5,6.2,7,7.1,7.2,6.8,3354
+Wijken,Oostzanerwerf,,2021,Traffic,13,6,28,3419,-,65,6.3,5.5,6.2,7,7.1,7.2,6.8,3354
 Wijken,Noordelijke IJ-oevers-West,NB,2021,Traffic,28,16,12,4598,3151,87,6.1,6,7.5,6.6,7.5,7.4,7.2,1360
 Wijken,Tuindorp Oostzaan,NC,2021,Traffic,26,15,22,5574,4,206,7.2,5.6,6.6,6.9,7.1,6.9,6.9,5364
 Wijken,Kadoelen,ND,2021,Traffic,23,11,18,1553,-,33,6.6,5.6,6.5,5.4,5.6,6.6,6.3,1520
