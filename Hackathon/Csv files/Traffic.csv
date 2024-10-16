@@ -1,0 +1,105 @@
+Geography,Area,Area code,Year,theme,Nuisance: speeding traffic (%),Nuisance: aggressive behaviour in traffic (%),Nuisance: parking problems (%),Parking spots total,Parking spots fiscal,Parking spots non public,Parking facilities (1-10),Parking facilities bikes (1-10),Nuisance: parking (1-10),Public transport (1-10),Public transport 65+ (1-10),Nuisance: amount of traffic (1-10),Nuisance: traffic noise (1-10),Parking spots non-fiscal
+Wijken,Haarlemmerbuurt,AA,2021,Traffic,15,10,10,1112,952,160,5.9,5.7,6.9,7.6,7.3,6.8,6.8,-
+Wijken,Jordaan,AB,2021,Traffic,17,16,21,2711,2409,302,5.5,5.1,6.5,7.7,7.5,6.6,6.8,-
+Wijken,Grachtengordel-West,AC,2021,Traffic,20,16,21,1338,1218,120,5.4,5.4,6.2,7.9,7.7,6.8,6.8,-
+Wijken,Burgwallen-Nieuwe Zijde,AD,2021,Traffic,18,12,16,619,382,237,5.5,5.6,7,8.5,7.9,6.4,6.2,-
+Wijken,Burgwallen-Oude Zijde,AE,2021,Traffic,13,21,22,310,211,99,5.2,5.9,6.6,8.5,8.6,6.7,6.9,-
+Wijken,Nieuwmarkt/Lastage,AF,2021,Traffic,19,14,17,1188,959,229,6,5.7,6.2,8,8,5.9,5.9,-
+Wijken,Grachtengordel-Zuid,AG,2021,Traffic,20,18,23,1231,1096,135,5.8,5.8,6.5,8.5,8.3,6.5,6.5,-
+Wijken,De Weteringschans,AH,2021,Traffic,11,10,18,1442,1314,128,5.8,5.4,6.8,8.5,8.1,6.8,6.5,-
+Wijken,Weesperbuurt/Plantage,AJ,2021,Traffic,16,14,14,1707,1598,109,6.9,6,6.9,8.2,7.6,6.8,6.4,-
+Wijken,Oostelijke Eilanden/Kadijken,AK,2021,Traffic,14,10,10,2317,2140,177,6.8,6,7.3,7.6,7.7,7.3,7,-
+Wijken,Spaarndammerbuurt/Zeeheldenbuurt,EB,2021,Traffic,9,6,14,2133,1957,176,6.6,5.9,7,7.2,7.2,6.7,6.6,-
+Wijken,Houthavens,EC,2021,Traffic,9,3,10,371,326,45,5.9,5.3,7.3,6.9,6.6,7.3,7,-
+Wijken,De Kolenkit,ED,2021,Traffic,20,12,25,1834,1745,89,6.2,5.9,6.5,7.8,8,6.4,6.2,-
+Wijken,Landlust,EE,2021,Traffic,26,19,19,4604,4469,135,6.9,5.6,6.9,7.3,7.2,6.5,6.3,-
+Wijken,Erasmuspark,EF,2021,Traffic,15,10,14,1358,1305,53,6.7,5.5,7.1,7.4,-,6.6,6.5,-
+Wijken,Staatsliedenbuurt,EH,2021,Traffic,12,8,17,1940,1806,134,6,5.3,6.5,7.4,7.4,7,6.8,-
+Wijken,Frederik Hendrikbuurt,EJ,2021,Traffic,9,6,20,1748,1662,86,6.7,5.4,6.8,7.9,8.2,6.7,6.5,-
+Wijken,Van Galenbuurt,EK,2021,Traffic,21,13,30,1238,1133,105,5.7,5.2,5.6,7.8,7.6,5.9,6,-
+Wijken,Geuzenbuurt,EL,2021,Traffic,19,12,23,1466,1392,74,6.2,5.4,6.2,7.8,7.6,6.5,6.5,-
+Wijken,Hoofdweg e.o.,EM,2021,Traffic,20,16,14,2094,2019,75,6.4,5.4,6.4,8,8.1,6.8,6.8,-
+Wijken,Chass¨¦buurt,EN,2021,Traffic,28,19,30,1009,931,78,6.1,5,6.3,7.5,-,6.4,6.4,-
+Wijken,Bellamybuurt,EP,2021,Traffic,12,9,20,765,692,73,5.9,5.1,6.3,8,7.7,6,5.8,-
+Wijken,Da Costabuurt,EQ,2021,Traffic,15,15,18,971,883,88,6.2,4.8,6.3,8.2,8.2,5.9,5.8,-
+Wijken,Westindische Buurt,ER,2021,Traffic,25,17,20,1763,1713,50,7.1,5.8,6.7,8,-,6.6,6.5,-
+Wijken,Van Lennepbuurt,ES,2021,Traffic,12,12,20,1331,1206,125,6.4,5.2,6.4,7.9,7.9,6.4,6.3,-
+Wijken,Overtoomse Sluis,ET,2021,Traffic,10,5,19,1455,1378,77,5.6,4.6,5.8,7.5,7.5,6.7,6.6,-
+Wijken,Helmersbuurt,EU,2021,Traffic,14,8,16,1594,1510,84,6.6,5.1,6.3,7.9,7.9,6.4,6.3,-
+Wijken,Geuzenveld,FB,2021,Traffic,35,24,59,6422,1,232,4.8,5.1,4.4,6.6,6,5.9,5.8,6189
+Wijken,Slotermeer-West,FC,2021,Traffic,33,22,41,3375,104,2137,6,5.3,5.6,7.5,7.4,6.2,6.1,1134
+Wijken,Slotermeer-Noordoost,FD,2021,Traffic,27,16,30,3086,278,2719,6.3,5.1,5.6,7.4,7.5,6.1,6.1,89
+Wijken,Slotermeer-Zuidoost,FE,2021,Traffic,29,22,25,3101,44,2794,6.9,5.2,6.6,7.8,7.7,6,5.9,263
+Wijken,De Aker,FG,2021,Traffic,19,11,29,5676,1,368,6.1,5.6,6,7.2,7.5,7,6.9,5307
+Wijken,De Punt,FH,2021,Traffic,26,21,36,3128,1,42,6,5.6,5.4,7.4,7.3,6.4,6.2,3085
+Wijken,Osdorp-Midden,FJ,2021,Traffic,41,32,34,4249,-,219,5.7,5.5,5.5,7.3,7.2,6.1,6.2,4030
+Wijken,Osdorp-Oost,FK,2021,Traffic,30,25,24,6867,929,2535,6.7,5.9,6.1,7.6,7.4,6,5.8,3403
+Wijken,Slotervaart-Noord,FL,2021,Traffic,24,18,14,3120,3075,45,7.5,6,7.6,7.7,7.2,7.1,6.7,-
+Wijken,Overtoomse Veld,FM,2021,Traffic,20,14,15,2872,2700,172,6.6,5.3,6.8,7.7,7.3,6.1,5.7,-
+Wijken,Slotervaart-Zuid,FN,2021,Traffic,17,13,11,3361,3208,93,7.3,6.2,7.3,8.2,7.8,6.7,6.6,60
+Wijken,Westlandgracht,FP,2021,Traffic,19,13,9,2211,2028,144,6.5,6.1,7.1,8.2,7.7,7,6.4,39
+Wijken,Sloten/Nieuw-Sloten,FQ,2021,Traffic,18,13,26,7182,1,556,6.8,6.2,6.4,7.6,7.5,6.9,6.8,6625
+Wijken,Hoofddorppleinbuurt,KA,2021,Traffic,15,12,18,4439,4324,113,6.3,5.7,6.4,7.8,8,6.5,6.4,2
+Wijken,Schinkelbuurt,KB,2021,Traffic,21,16,13,972,929,43,6.3,5.2,6.5,7.7,7.4,6.5,6.2,-
+Wijken,Willemspark,KC,2021,Traffic,11,6,15,2624,2565,59,7,6,7,7.5,7.1,6.9,6.5,-
+Wijken,Museumkwartier,KD,2021,Traffic,18,15,17,4839,4563,276,6.8,5.9,6.6,8,7.6,6.8,6.7,-
+Wijken,Oude Pijp,KE,2021,Traffic,14,15,27,2375,2100,275,5.6,5.5,6,8.3,8,5.9,5.9,-
+Wijken,Nieuwe Pijp,KF,2021,Traffic,17,12,19,2175,1985,190,5.5,5,6.3,8.1,7.9,6.5,6.4,-
+Wijken,Zuid Pijp,KG,2021,Traffic,11,9,10,1946,1884,62,6.7,5.7,7,7.5,7.3,7,6.9,-
+Wijken,Stadionbuurt,KH,2021,Traffic,12,9,10,3317,3191,126,7,6.2,7,7.7,7.4,6.9,6.7,-
+Wijken,Apollobuurt,KJ,2021,Traffic,9,4,6,4183,4043,140,7.4,6.6,7.2,8.1,7.9,7.3,7.4,-
+Wijken,Scheldebuurt,KK,2021,Traffic,10,5,15,4204,3985,219,6.2,5.7,6.3,8,7.9,6.8,6.7,-
+Wijken,IJselbuurt,KL,2021,Traffic,10,8,6,1494,1440,54,6.9,5.6,7.3,8,8.2,7.1,6.9,-
+Wijken,Rijnbuurt,KM,2021,Traffic,14,9,14,2957,2802,155,6.6,5.3,6.8,6.9,6.9,7,6.8,-
+Wijken,Zuidas,KP,2021,Traffic,12,11,16,805,613,192,5.6,6.7,6.9,8.8,-,7.4,6.8,-
+Wijken,Buitenveldert-West,KQ,2021,Traffic,10,7,4,8006,7266,740,7.6,6.4,7.6,7.8,7.7,7.3,6.7,-
+Wijken,Buitenveldert-Oost,KR,2021,Traffic,11,8,2,5417,5197,198,7.7,6.6,7.6,6.9,6.7,7.1,6.5,22
+Wijken,Oostelijk Havengebied,MA,2021,Traffic,10,6,9,3259,2974,285,7,6.1,7.7,7.8,7.9,7.4,7.1,-
+Wijken,Weesperzijde,MB,2021,Traffic,8,4,15,1318,1246,72,6.8,5.2,6.8,8.4,8,5.7,5.9,-
+Wijken,Oosterparkbuurt,MC,2021,Traffic,14,12,19,2180,2013,167,6.3,5.7,6.3,8.3,8,6.4,6.1,-
+Wijken,Transvaalbuurt,MD,2021,Traffic,18,12,20,1828,1756,72,6.5,5.4,6.8,7.7,7.5,6.6,6.6,-
+Wijken,Dapperbuurt,ME,2021,Traffic,15,15,16,1998,1917,81,6.8,5.7,6.8,8.2,8.1,6.4,6.4,-
+Wijken,Indische Buurt-West,MF,2021,Traffic,18,17,25,2266,2095,171,6.2,5.2,6.1,8,7.8,6.3,6.2,-
+Wijken,Indische Buurt-Oost,MG,2021,Traffic,18,17,23,2060,1957,103,6.2,5.5,6.2,7.8,7.8,6.5,6.6,-
+Wijken,Zeeburgereiland/Bovendiep,MH,2021,Traffic,11,4,7,895,880,15,7.1,6.6,6.9,6.6,-,6.7,6.2,-
+Wijken,IJburg-West,MJ,2021,Traffic,10,5,8,2137,1994,143,7.1,6.5,7.6,7,7.2,7.2,7,-
+Wijken,IJburg-Zuid,ML,2021,Traffic,17,9,24,1408,1360,48,7.3,6.3,7.8,7,-,7.7,7.5,-
+Wijken,Frankendael,MM,2021,Traffic,6,6,7,4119,3972,147,7.2,5.9,7.4,8,7.8,7.4,7,-
+Wijken,Middenmeer,MN,2021,Traffic,13,9,9,4691,4552,139,7.1,5.9,7.3,7.7,7.9,7.4,7.1,-
+Wijken,Betondorp,MP,2021,Traffic,16,9,15,1799,1741,58,6.9,5,7,6.7,6.7,7.2,6.5,-
+Wijken,Omval/Overamstel,MQ,2021,Traffic,11,6,8,1903,1827,48,6.7,6.2,7.7,8.4,8.2,7.4,6.8,28
+Wijken,Oostzanerwerf,NA,2021,Traffic,13,6,28,3419,-,65,6.3,5.5,6.2,7,7.1,7.2,6.8,3354
+Wijken,Noordelijke IJ-oevers-West,NB,2021,Traffic,28,16,12,4598,3151,87,6.1,6,7.5,6.6,7.5,7.4,7.2,1360
+Wijken,Tuindorp Oostzaan,NC,2021,Traffic,26,15,22,5574,4,206,7.2,5.6,6.6,6.9,7.1,6.9,6.9,5364
+Wijken,Kadoelen,ND,2021,Traffic,23,11,18,1553,-,33,6.6,5.6,6.5,5.4,5.6,6.6,6.3,1520
+Wijken,Banne Buiksloot,NE,2021,Traffic,18,12,31,4996,305,345,6,5.3,6,6.9,6.9,6.9,6.9,4346
+Wijken,Elzenhagen,NG,2021,Traffic,16,7,21,1077,833,29,5.3,5.5,6.7,7.7,-,6.7,6.1,215
+Wijken,Buikslotermeer,NH,2021,Traffic,14,10,13,5188,4184,185,7.1,5.4,7,7.8,7.5,7,6.5,819
+Wijken,Waterlandpleinbuurt,NJ,2021,Traffic,23,13,23,5439,-,451,7,5.5,6.6,7.3,7.4,6.5,6.3,4988
+Wijken,Volewijck,NK,2021,Traffic,22,17,16,3881,3602,149,6.9,5.9,6.9,7.2,6.8,6.5,6.6,130
+Wijken,IJplein/Vogelbuurt,NL,2021,Traffic,25,14,17,3096,3010,86,7.2,5.5,7.1,7.5,7.3,7.1,6.9,-
+Wijken,Tuindorp Nieuwendam,NN,2021,Traffic,23,7,26,1647,1,59,6.3,5.6,6,7.2,7.2,6.7,6.9,1587
+Wijken,Waterland,NQ,2021,Traffic,26,13,28,1677,-,67,6.9,6.4,6.8,3.5,-,7.1,7.2,1610
+Wijken,Driemond,SA,2021,Traffic,16,5,13,1133,-,2,6,6.5,5.8,2.6,-,7.2,6.8,1131
+Wijken,Venserpolder,TB,2021,Traffic,9,6,4,3288,1407,1873,7.3,5.6,7.3,7.9,7.9,7.2,7,8
+Wijken,Amsterdamse Poort e.o.,TC,2021,Traffic,14,13,29,1389,821,84,5.6,6.2,6.5,7.7,-,7.4,7.4,484
+Wijken,H-buurt,TD,2021,Traffic,10,8,26,1464,1423,41,5.9,5.9,6.9,8,7.6,7,6.9,-
+Wijken,Ganzenhoef e.o.,TE,2021,Traffic,9,6,41,2482,-,307,5.1,5.2,5,7.6,-,6.2,6.3,2175
+Wijken,Geerdinkhof/Kantershof,TF,2021,Traffic,6,5,22,1626,-,37,7,6.4,7.5,7.7,7.6,7.9,7.8,1589
+Wijken,Bijlmermuseum,TG,2021,Traffic,13,13,23,2296,1,165,6.5,6.2,6.4,7.7,8.2,6.6,6.7,2130
+Wijken,K-buurt,TH,2021,Traffic,13,8,30,2531,4,17,6.6,5.9,6.6,7.5,7.4,7.2,7.3,2510
+Wijken,Holendrecht,TJ,2021,Traffic,13,11,22,3639,-,515,6.7,5.9,6.9,7.7,7.6,7.4,7.2,3124
+Wijken,Nellestein,TK,2021,Traffic,16,6,26,733,-,55,6.3,5.7,7.2,8,8,8.2,7.7,678
+Wijken,Reigersbos,TL,2021,Traffic,6,3,15,3652,-,432,7.4,6,7.1,7.9,7.9,7.8,7.6,3220
+Wijken,Gein,TM,2021,Traffic,6,4,12,5322,-,124,7.1,6.1,7.3,8,8,8.3,8.1,5198
+Wijken,Sloterdijk-West,EA,2021,Traffic,-,-,-,1985,1929,56,-,-,-,-,-,-,-,-
+Wijken,Centrale Markt,EG,2021,Traffic,-,-,-,785,715,70,6.6,5.6,7,7.5,-,7.1,6.5,-
+Wijken,Vondelparkbuurt,EV,2021,Traffic,-,-,-,475,415,60,7.3,6,7.7,7.9,-,6.7,6.8,-
+Wijken,Sloterdijk Nieuw-West,FA,2021,Traffic,-,-,-,4622,577,68,-,6.9,-,9.3,-,6.9,6.7,3977
+Wijken,Lutkemeer/Ookmeer,FF,2021,Traffic,-,-,-,1426,-,5,-,-,-,-,-,-,-,1421
+Wijken,Prinses Irenebuurt e.o.,KN,2021,Traffic,-,-,-,1162,1147,15,7.8,6.8,7.7,8.7,8.4,6.6,6,-
+Wijken,IJburg-Oost,MK,2021,Traffic,-,-,-,144,142,2,-,-,-,-,-,-,-,-
+Wijken,Nieuwendammerdijk/Buiksloterdijk,NF,2021,Traffic,-,-,-,636,383,9,7.2,6,7.2,7.5,-,7.8,8.2,244
+Wijken,Tuindorp Buiksloot,NM,2021,Traffic,-,-,-,780,726,54,7,5.7,6.7,7.1,-,7.5,7.6,-
+Wijken,Noordelijke IJ-oevers-Oost,NP,2021,Traffic,-,-,-,1225,1077,6,-,-,-,-,-,-,-,142
+Wijken,Amstel III/Bullewijk,TA,2021,Traffic,-,-,-,1176,-,92,-,-,-,-,-,-,-,1084

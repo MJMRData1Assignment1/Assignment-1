@@ -1,0 +1,107 @@
+﻿Geography,Area,Area code,Year,theme,Social cohesion (1-10),SES low,SES midrange,SES high,SES low (%),SES midrange (%),SES high (%),SES low 0-17,SES low (% 0-17),SES low 18-26,SES low (% 18-26),SES low 27-65,SES low (%27-65),SES low 66+,SES low (%66+),Most vulnerable,Most vulnerable (%),Most vulnerable 0-17,Most vulnerable (% 0-17),Most vulnerable 18-26,Most vulnerable (% 18-26),Most vulnerable 27-65,Most vulnerable (% 27-65),Most vulnerable 66+,Most vulnerable (% 66+),Activities social participation,"Activities social participation / 1,000 inh."
+Wijken,Haarlemmerbuurt,AA,2021,Socioeconomic status,6.2,2245,2385,4520,25,26,49,160,15,170,17,1235,22,680,44,935,46,45,4,35,4,520,9,335,21,-,-
+Wijken,Jordaan,AB,2021,Socioeconomic status,6.2,4560,5240,9555,24,27,49,200,11,335,13,2620,22,1405,45,1940,46,55,3,100,4,1105,9,680,22,-,-
+Wijken,Grachtengordel-West,AC,2021,Socioeconomic status,6,970,1365,3970,15,22,63,40,7,195,18,530,15,205,20,315,51,10,2,25,3,195,5,80,8,-,-
+Wijken,Burgwallen-Nieuwe Zijde,AD,2021,Socioeconomic status,5.4,890,1000,2095,22,25,53,25,13,135,15,615,24,115,39,255,47,-,-,20,2,190,7,35,12,-,-
+Wijken,Burgwallen-Oude Zijde,AE,2021,Socioeconomic status,5.6,1145,1125,2225,25,25,49,50,20,180,17,750,27,165,39,390,42,-,-,30,3,275,10,80,19,-,-
+Wijken,Nieuwmarkt/Lastage,AF,2021,Socioeconomic status,6.3,2130,2360,5105,22,25,53,120,14,160,11,1150,21,695,41,815,47,20,2,35,2,445,8,315,18,-,-
+Wijken,Grachtengordel-Zuid,AG,2021,Socioeconomic status,6.2,815,1165,3380,15,22,63,40,8,110,12,510,16,155,21,255,52,-,-,25,3,150,5,75,10,-,-
+Wijken,De Weteringschans,AH,2021,Socioeconomic status,6.2,1170,1610,4510,16,22,62,55,7,160,13,700,16,260,29,375,53,-,-,30,2,225,5,110,12,-,-
+Wijken,Weesperbuurt/Plantage,AJ,2021,Socioeconomic status,6.2,1560,1550,4375,21,21,58,55,7,165,13,925,21,415,37,825,47,25,4,40,3,530,12,230,20,-,-
+Wijken,Oostelijke Eilanden/Kadijken,AK,2021,Socioeconomic status,6.3,3655,3525,6490,27,26,47,330,19,315,17,2065,25,945,46,1825,45,85,5,120,7,1200,15,420,20,-,-
+Wijken,Spaarndammerbuurt/Zeeheldenbuurt,EB,2021,Socioeconomic status,6.4,3560,2955,4130,33,28,39,485,31,180,18,2010,30,885,68,1715,42,165,11,75,8,995,15,480,37,-,-
+Wijken,Houthavens,EC,2021,Socioeconomic status,7.3,360,580,2745,10,16,75,15,2,25,12,220,9,100,30,140,63,-,-,-,-,75,3,60,18,-,-
+Wijken,De Kolenkit,ED,2021,Socioeconomic status,5.8,4085,2805,4095,37,26,37,935,43,255,14,2260,37,635,74,1685,38,170,8,85,5,1065,17,365,43,-,-
+Wijken,Landlust,EE,2021,Socioeconomic status,5.6,6290,4905,7710,33,26,41,1205,39,370,14,3675,32,1040,72,2505,42,220,7,100,4,1705,15,485,33,-,-
+Wijken,Erasmuspark,EF,2021,Socioeconomic status,6.2,1365,1395,3070,23,24,53,185,25,90,11,785,21,300,68,490,52,40,5,20,2,285,8,145,33,-,-
+Wijken,Staatsliedenbuurt,EH,2021,Socioeconomic status,6.2,3375,3430,6090,26,27,47,345,21,200,15,2070,24,760,61,1350,48,75,4,60,4,885,10,330,26,-,-
+Wijken,Frederik Hendrikbuurt,EJ,2021,Socioeconomic status,5.9,2130,2005,4125,26,24,50,185,20,115,12,1300,24,535,57,975,48,50,5,25,2,625,11,280,30,-,-
+Wijken,Van Galenbuurt,EK,2021,Socioeconomic status,5.8,4200,1820,2145,51,22,26,615,55,500,40,2710,51,380,74,3365,28,415,37,510,41,2250,42,185,36,-,-
+Wijken,Geuzenbuurt,EL,2021,Socioeconomic status,5.8,1430,1535,3800,21,23,56,170,19,100,10,815,19,340,62,535,52,40,4,15,2,330,8,145,27,-,-
+Wijken,Hoofdweg e.o.,EM,2021,Socioeconomic status,5.8,3305,2545,4480,32,25,43,515,36,175,12,1940,30,675,75,1370,44,85,6,35,2,890,14,360,40,-,-
+Wijken,Chassébuurt,EN,2021,Socioeconomic status,5.7,1835,1465,2790,30,24,46,325,31,115,13,1040,28,355,69,760,45,65,6,20,3,495,14,175,34,-,-
+Wijken,Bellamybuurt,EP,2021,Socioeconomic status,6,1780,1565,3370,26,23,50,175,22,125,14,1170,26,310,59,990,47,105,13,60,6,715,16,110,21,-,-
+Wijken,Da Costabuurt,EQ,2021,Socioeconomic status,5.9,935,1125,2585,20,24,56,60,12,65,12,535,18,275,49,340,52,-,-,15,3,195,6,125,22,-,-
+Wijken,Westindische Buurt,ER,2021,Socioeconomic status,6.4,1360,1530,3945,20,22,58,155,16,80,8,800,19,325,56,480,54,30,3,15,2,305,7,130,22,-,-
+Wijken,Van Lennepbuurt,ES,2021,Socioeconomic status,6.2,2255,1750,2935,32,25,42,240,33,145,16,1265,29,605,63,985,41,55,7,50,6,580,13,300,31,-,-
+Wijken,Overtoomse Sluis,ET,2021,Socioeconomic status,6,1380,1725,4805,17,22,61,85,9,125,11,845,16,325,47,540,56,15,2,40,4,370,7,115,17,-,-
+Wijken,Helmersbuurt,EU,2021,Socioeconomic status,5.9,1125,1725,4600,15,23,62,35,4,95,9,685,15,305,38,465,55,-,-,20,2,310,7,130,16,-,-
+Wijken,Geuzenveld,FB,2021,Socioeconomic status,5.8,7955,6405,4375,42,34,23,1775,37,475,21,4415,45,1290,65,2865,34,250,5,135,6,1795,18,685,34,-,-
+Wijken,Slotermeer-West,FC,2021,Socioeconomic status,5.7,5220,3480,2200,48,32,20,1180,46,350,23,2895,51,790,68,1895,29,185,7,95,6,1250,22,365,32,39,3.6
+Wijken,Slotermeer-Noordoost,FD,2021,Socioeconomic status,5.7,4150,2830,2225,45,31,24,955,45,225,19,2400,48,565,66,1525,31,170,8,60,5,1035,21,260,30,-,-
+Wijken,Slotermeer-Zuidoost,FE,2021,Socioeconomic status,5.6,2745,2000,2115,40,29,31,515,40,170,17,1570,41,490,63,1075,37,100,8,50,5,705,19,220,28,7,1
+Wijken,De Aker,FG,2021,Socioeconomic status,5.7,3490,4535,6240,24,32,44,545,18,215,12,1860,24,875,49,1145,48,95,3,60,4,665,9,320,18,-,-
+Wijken,De Punt,FH,2021,Socioeconomic status,5.2,2510,2110,1530,41,34,25,370,28,240,27,1430,45,470,61,1080,34,75,6,125,14,645,20,235,31,-,-
+Wijken,Osdorp-Midden,FJ,2021,Socioeconomic status,5.2,6250,4990,4100,41,33,27,1300,36,435,21,3350,42,1170,69,2450,35,215,6,140,7,1420,18,675,40,-,-
+Wijken,Osdorp-Oost,FK,2021,Socioeconomic status,5.6,6925,5190,4995,40,30,29,1315,41,395,17,3510,41,1705,58,2760,34,230,7,110,5,1550,18,870,30,-,-
+Wijken,Slotervaart-Noord,FL,2021,Socioeconomic status,6.1,3035,2350,2680,38,29,33,615,36,245,24,1520,37,655,56,1210,38,120,7,100,10,590,14,400,34,-,-
+Wijken,Overtoomse Veld,FM,2021,Socioeconomic status,5.5,4730,3735,5830,33,26,41,955,37,660,22,2470,32,645,65,1700,40,155,6,115,4,1055,14,375,38,-,-
+Wijken,Slotervaart-Zuid,FN,2021,Socioeconomic status,5.6,3905,3055,3735,37,29,35,845,40,275,14,2000,39,785,57,1425,34,130,6,75,4,820,16,395,29,-,-
+Wijken,Westlandgracht,FP,2021,Socioeconomic status,5.1,2765,2665,5920,24,23,52,435,31,370,13,1545,24,415,55,1140,45,90,6,120,4,725,11,205,27,-,-
+Wijken,Sloten/Nieuw-Sloten,FQ,2021,Socioeconomic status,6.3,3105,4285,6735,22,30,48,335,13,175,11,1655,21,945,44,970,50,40,2,40,3,530,7,360,17,-,-
+Wijken,Hoofddorppleinbuurt,KA,2021,Socioeconomic status,6.2,1980,2590,7205,17,22,61,140,9,175,11,1125,15,540,49,670,56,25,1,35,2,400,5,215,19,-,-
+Wijken,Schinkelbuurt,KB,2021,Socioeconomic status,6,850,1025,2105,21,26,53,85,19,55,9,510,20,200,52,340,51,15,4,10,2,225,9,85,21,-,-
+Wijken,Willemspark,KC,2021,Socioeconomic status,6.1,665,1040,3855,12,19,69,70,6,60,10,355,12,175,25,235,55,20,1,15,3,130,4,75,10,-,-
+Wijken,Museumkwartier,KD,2021,Socioeconomic status,5.6,1500,2490,8500,12,20,68,115,5,120,9,815,12,455,19,550,55,25,1,25,2,320,5,180,8,-,-
+Wijken,Oude Pijp,KE,2021,Socioeconomic status,6,3125,3445,8030,21,24,55,215,16,265,10,1950,21,695,53,1165,51,55,4,55,2,765,8,290,22,-,-
+Wijken,Nieuwe Pijp,KF,2021,Socioeconomic status,5.7,2755,2965,6635,22,24,54,190,15,180,10,1580,20,805,59,1165,50,40,3,40,2,685,9,395,29,-,-
+Wijken,Zuid Pijp,KG,2021,Socioeconomic status,5.7,2875,2350,2845,36,29,35,380,34,120,13,1565,33,810,63,1260,38,65,6,40,4,790,17,370,29,-,-
+Wijken,Stadionbuurt,KH,2021,Socioeconomic status,6,2980,3100,5765,25,26,49,350,19,125,10,1600,23,905,54,1145,48,55,3,30,2,680,10,375,22,-,-
+Wijken,Apollobuurt,KJ,2021,Socioeconomic status,6.3,845,1525,6125,10,18,72,75,4,75,9,430,10,260,18,305,55,15,1,20,2,140,3,130,9,-,-
+Wijken,Scheldebuurt,KK,2021,Socioeconomic status,6.5,2300,2955,9560,16,20,65,185,8,130,7,1115,13,865,40,970,56,30,1,20,1,435,5,485,23,-,-
+Wijken,IJselbuurt,KL,2021,Socioeconomic status,5.9,1285,1330,2600,25,26,50,140,23,70,8,720,24,350,52,530,48,35,5,15,2,315,10,170,25,-,-
+Wijken,Rijnbuurt,KM,2021,Socioeconomic status,6.3,2215,2240,4620,24,25,51,215,20,120,9,1215,23,665,53,980,49,55,5,40,3,570,11,315,25,-,-
+Wijken,Zuidas,KP,2021,Socioeconomic status,5.3,455,635,2805,12,16,72,35,8,65,7,315,13,35,26,110,54,-,-,-,-,80,3,15,10,-,-
+Wijken,Buitenveldert-West,KQ,2021,Socioeconomic status,6,3165,3300,7060,23,24,52,270,13,205,13,1460,21,1230,41,1240,48,45,2,40,2,525,8,630,21,-,-
+Wijken,Buitenveldert-Oost,KR,2021,Socioeconomic status,5.7,2275,1980,3700,29,25,46,270,25,125,14,945,24,935,46,1160,42,65,6,40,5,405,10,645,32,-,-
+Wijken,Oostelijk Havengebied,MA,2021,Socioeconomic status,6.5,2980,4360,11400,16,23,61,400,13,185,11,1825,15,565,30,1035,58,65,2,55,3,720,6,195,10,-,-
+Wijken,Weesperzijde,MB,2021,Socioeconomic status,5.9,1050,1140,3690,18,19,63,115,15,180,17,525,15,230,46,350,52,25,3,25,2,205,6,95,19,-,-
+Wijken,Oosterparkbuurt,MC,2021,Socioeconomic status,5.7,3135,2595,4875,30,24,46,395,28,165,12,1850,28,730,61,1355,44,80,6,45,3,890,13,345,29,-,-
+Wijken,Transvaalbuurt,MD,2021,Socioeconomic status,5.9,3085,2310,3695,34,25,41,530,37,160,12,1710,32,685,71,1310,41,90,6,50,4,830,15,340,35,-,-
+Wijken,Dapperbuurt,ME,2021,Socioeconomic status,6,3190,2455,4380,32,24,44,400,29,255,18,1715,29,820,62,1550,42,80,6,160,11,890,15,420,31,-,-
+Wijken,Indische Buurt-West,MF,2021,Socioeconomic status,5.9,4015,3195,5285,32,26,42,630,34,225,12,2285,30,880,75,1685,42,120,6,65,4,1100,14,395,34,-,-
+Wijken,Indische Buurt-Oost,MG,2021,Socioeconomic status,6,3965,2585,3195,41,27,33,685,43,200,17,2145,38,935,73,1780,37,140,9,55,5,1080,19,505,39,-,-
+Wijken,Zeeburgereiland/Bovendiep,MH,2021,Socioeconomic status,6.2,910,990,3055,18,20,62,205,26,140,10,490,19,75,37,335,46,70,9,30,2,205,8,30,14,-,-
+Wijken,IJburg-West,MJ,2021,Socioeconomic status,6.3,2895,3860,8925,18,25,57,705,16,235,14,1625,18,330,44,1025,55,115,3,105,6,665,8,140,19,-,-
+Wijken,IJburg-Zuid,ML,2021,Socioeconomic status,6.1,1640,2005,4490,20,25,55,445,17,105,15,935,21,155,51,615,55,80,3,40,6,415,9,75,25,-,-
+Wijken,Frankendael,MM,2021,Socioeconomic status,6.4,3335,2760,5755,28,23,49,390,22,200,11,1820,27,925,57,1855,44,195,11,75,4,1040,16,545,33,-,-
+Wijken,Middenmeer,MN,2021,Socioeconomic status,6.7,2025,2960,10510,13,19,68,140,5,285,9,955,12,645,38,740,54,30,1,85,3,350,4,275,16,-,-
+Wijken,Betondorp,MP,2021,Socioeconomic status,6.6,1260,985,895,40,31,28,130,28,40,17,600,35,490,67,560,36,25,5,15,5,290,17,230,32,-,-
+Wijken,Omval/Overamstel,MQ,2021,Socioeconomic status,5.9,530,805,3900,10,15,75,30,6,100,8,350,11,50,22,250,58,-,-,40,3,185,6,15,7,-,-
+Wijken,Oostzanerwerf,NA,2021,Socioeconomic status,6,3020,3095,2735,34,35,31,635,34,170,17,1565,33,650,52,1065,41,130,7,60,6,630,13,250,20,-,-
+Wijken,Noordelijke IJ-oevers-West,NB,2021,Socioeconomic status,6,730,1230,3840,13,21,66,45,6,155,12,455,13,75,25,250,56,10,2,35,3,175,5,30,9,-,-
+Wijken,Tuindorp Oostzaan,NC,2021,Socioeconomic status,6.5,4380,3915,3710,36,33,31,660,25,205,21,2240,34,1275,69,1765,39,120,5,70,7,925,14,645,35,-,-
+Wijken,Kadoelen,ND,2021,Socioeconomic status,6.5,785,1020,1705,22,29,49,120,14,30,12,390,21,245,48,245,51,20,2,10,4,115,6,95,19,-,-
+Wijken,Banne Buiksloot,NE,2021,Socioeconomic status,5.8,6190,4750,3860,42,32,26,1315,39,330,19,3200,42,1345,62,2490,34,235,7,100,6,1390,18,765,35,-,-
+Wijken,Elzenhagen,NG,2021,Socioeconomic status,6.4,680,1065,2110,18,28,55,90,9,150,24,345,17,95,41,270,54,20,2,55,8,155,8,40,17,-,-
+Wijken,Buikslotermeer,NH,2021,Socioeconomic status,5.4,4620,3460,3075,41,31,28,900,48,285,17,2200,42,1235,54,1935,31,165,9,60,3,925,18,785,34,-,-
+Wijken,Waterlandpleinbuurt,NJ,2021,Socioeconomic status,5.7,5545,4590,3385,41,34,25,1430,42,310,19,3045,43,760,52,1955,35,290,9,95,6,1205,17,370,25,-,-
+Wijken,Volewijck,NK,2021,Socioeconomic status,6.1,4310,2910,2215,46,31,23,805,43,190,20,2485,45,825,74,1815,30,160,9,65,7,1170,21,420,38,-,-
+Wijken,IJplein/Vogelbuurt,NL,2021,Socioeconomic status,6.2,3400,2500,2225,42,31,27,615,43,200,23,1920,40,665,69,1455,34,135,10,75,8,915,19,325,34,-,-
+Wijken,Tuindorp Nieuwendam,NN,2021,Socioeconomic status,6.8,1330,1145,1010,38,33,29,150,24,50,20,620,34,515,66,535,37,40,6,15,6,230,12,255,33,-,-
+Wijken,Waterland,NQ,2021,Socioeconomic status,8,425,550,1440,18,23,60,15,3,25,14,205,17,175,40,145,55,-,-,10,6,65,5,60,13,-,-
+Wijken,Driemond,SA,2021,Socioeconomic status,7.1,385,570,705,23,34,42,45,12,10,8,185,21,145,54,100,52,-,-,-,-,40,5,50,19,-,-
+Wijken,Venserpolder,TB,2021,Socioeconomic status,5.3,3870,2785,1810,46,33,21,680,50,215,19,2370,46,600,69,1495,32,135,10,60,6,960,19,340,39,10,1.2
+Wijken,Amsterdamse Poort e.o.,TC,2021,Socioeconomic status,5.2,2665,2685,2980,32,32,36,525,38,320,13,1520,38,300,61,990,33,85,6,85,3,670,17,150,31,32,3.8
+Wijken,H-buurt,TD,2021,Socioeconomic status,5.6,3825,2305,1490,50,30,20,1055,64,260,17,2185,56,325,63,1375,25,200,12,95,6,945,24,140,27,2,0.3
+Wijken,Ganzenhoef e.o.,TE,2021,Socioeconomic status,5.9,2825,2675,2115,37,35,28,555,35,210,17,1775,41,290,57,885,38,65,4,55,5,645,15,115,23,5,0.7
+Wijken,Geerdinkhof/Kantershof,TF,2021,Socioeconomic status,6.3,2205,2365,2530,31,33,36,220,20,135,15,1185,33,670,45,780,42,45,4,35,4,395,11,310,21,1,0.1
+Wijken,Bijlmermuseum,TG,2021,Socioeconomic status,5.5,4170,2295,1230,54,30,16,1040,64,265,21,2345,58,525,69,1520,25,185,11,70,6,1020,25,245,32,17,2.2
+Wijken,K-buurt,TH,2021,Socioeconomic status,6.2,2825,2745,1755,39,37,24,565,33,185,20,1540,39,535,68,990,37,105,6,65,7,550,14,270,35,6,0.8
+Wijken,Holendrecht,TJ,2021,Socioeconomic status,5.9,4395,3495,1700,46,36,18,1100,49,200,19,2155,47,940,57,1590,30,190,8,40,4,880,19,480,29,11,1.1
+Wijken,Nellestein,TK,2021,Socioeconomic status,6.2,825,1105,1090,27,37,36,105,25,50,18,450,27,215,35,295,45,15,4,15,5,150,9,115,19,-,-
+Wijken,Reigersbos,TL,2021,Socioeconomic status,6,3195,3195,2105,38,38,25,500,34,185,19,1850,39,655,49,1195,37,95,7,60,6,755,16,280,21,39,4.6
+Wijken,Gein,TM,2021,Socioeconomic status,6,3875,4145,3180,35,37,28,650,31,200,16,2215,35,810,49,1350,39,130,6,70,6,840,13,315,19,-,-
+Wijken,Havens-West,BA,2021,Socioeconomic status,-,20,15,15,36,34,30,-,-,-,-,10,42,-,-,-,40,-,-,-,-,-,-,-,-,-,-
+Wijken,Coenhaven/Minervahaven,BB,2021,Socioeconomic status,-,20,10,65,19,13,69,-,-,-,-,-,-,-,-,-,27,-,-,-,-,-,-,-,-,-,-
+Wijken,Sloterdijk-West,EA,2021,Socioeconomic status,-,75,90,340,15,18,67,-,-,-,-,65,17,-,-,40,59,-,-,-,-,35,9,-,-,-,-
+Wijken,Centrale Markt,EG,2021,Socioeconomic status,-,555,635,1225,23,26,51,55,16,30,11,325,22,140,51,245,52,10,3,15,5,145,10,70,26,-,-
+Wijken,Vondelparkbuurt,EV,2021,Socioeconomic status,-,370,370,1030,21,21,58,25,10,20,10,210,22,110,33,160,48,-,-,-,-,65,7,80,25,-,-
+Wijken,Sloterdijk Nieuw-West,FA,2021,Socioeconomic status,-,275,260,300,33,31,36,-,-,115,28,145,38,-,-,80,33,-,-,30,7,50,13,-,-,-,-
+Wijken,Lutkemeer/Ookmeer,FF,2021,Socioeconomic status,-,605,265,315,51,22,27,100,48,70,44,340,52,100,57,425,28,75,37,65,44,245,38,40,22,-,-
+Wijken,Prinses Irenebuurt e.o.,KN,2021,Socioeconomic status,-,145,215,1020,11,16,74,15,5,10,9,70,11,50,17,50,55,-,-,-,-,20,3,25,9,-,-
+Wijken,Nieuwendammerdijk/Buiksloterdijk,NF,2021,Socioeconomic status,-,115,290,1260,7,18,76,-,-,-,-,50,6,50,19,25,66,-,-,-,-,10,1,10,4,-,-
+Wijken,Tuindorp Buiksloot,NM,2021,Socioeconomic status,-,835,615,440,44,32,23,150,43,40,24,405,39,240,72,330,34,20,6,15,8,180,17,120,36,-,-
+Wijken,Noordelijke IJ-oevers-Oost,NP,2021,Socioeconomic status,-,85,60,105,34,24,42,-,-,15,23,60,40,-,-,10,39,-,-,-,-,10,7,-,-,-,-
+Wijken,Amstel III/Bullewijk,TA,2021,Socioeconomic status,-,200,220,1190,12,14,74,35,68,70,6,85,28,-,-,95,26,35,70,15,1,40,13,-,-,-,-
+Wijken,IJburg-Oost,MK,2021,Socioeconomic status,-,-,10,60,-,15,85,-,-,-,-,-,-,-,-,-,83,-,-,-,-,-,-,-,-,-,-
